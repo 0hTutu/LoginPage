@@ -144,3 +144,7 @@
 #login_button:hover {
     transform: scale(1.07);
 }
+
+#mode_icon:hover {
+    transform: scale(1.10);
+}
